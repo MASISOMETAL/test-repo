@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    border: 1px solid black;
+}
